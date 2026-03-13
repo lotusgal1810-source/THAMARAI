@@ -26,6 +26,8 @@ console.log(typeof name);
 var name = null
 console.log(typeof name);
 
+//summa
+
 
 
 
